@@ -5,8 +5,9 @@ function App() {
 	<div className = 'App'>
 	  <header className = 'App-header'>
 		<img src = {logo} className = 'App-logo' alt = 'logo' />
+		<p>Thank you for downloading this folder-structured template</p>
 		<p>
-		  Edit <code>src/App.js</code> and save to reload.
+		  Edit <code>src/containers/App.jsx</code> and save to reload.
 		</p>
 		<a
 		  className = 'App-link'
@@ -14,8 +15,9 @@ function App() {
 		  target = '_blank'
 		  rel = 'noopener noreferrer'
 		>
-		  Learn React
+		  Check for instructions on how to use this React Template
 		</a>
+		<p>Pull requests are welcome</p>
 	  </header>
 	</div>
   )
